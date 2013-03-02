@@ -10,5 +10,7 @@
 <body>
 <h1>Time Application - MVC</h1>
 Current time is ${time} !!
+This is feature A change
+This is feature A change 2
 </body>
 </html>
