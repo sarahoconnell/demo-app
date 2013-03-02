@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>Time Application - MVC</h1>
-Current time: ${time} !
+Current time is ${time} !
 </body>
 </html>
